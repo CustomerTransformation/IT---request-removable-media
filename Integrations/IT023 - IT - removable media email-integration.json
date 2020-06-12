@@ -1,0 +1,16 @@
+[
+    {
+        "ID": "5b5b0c1ff0aec",
+        "Name": "IT023 - IT - removable media email",
+        "Type": "EMAIL",
+        "LIM_id": "83ef69d1-2c5e-11e5-ad20-22000a7a05f5",
+        "Editable": true,
+        "LIM_name": "Portsmouth",
+        "Category": "IT",
+        "data_type": "integration-lookup",
+        "allow_offline": 0,
+        "Output_template": "{\"lookup_validation\":\"0\",\"subject\":\"Your removable media request has not been approved\",\"fromName\":\"{NoReplyEmail_N}\",\"from\":\"{NoReplyEmail}\",\"recipients_to\":\"{emailToName}\",\"recipients_cc\":\"\",\"recipients_bcc\":\"\",\"pdf_attachments\":\"59afeb6b06cbd\",\"body\":\"<div style=\\\"font-family: arial, helvetica, sans-serif; font-size: 12pt; white-space: pre-wrap;\\\">\\n<div>Dear {firstNamelastName},</div>\\n<div></div>\\n<p>Your removable media request has been rejected.Please see attached for the reason.</p>\\n<div></div>\\n<p>Yours sincerely,</p>\\n<p>Portsmouth City Council</p>\\n</div>\",\"attachments\":\"\"}",
+        "log_only_on_error": 0,
+        "error_notification": "{\"LIM_id\":\"3f07ecf4-0dfa-11e2-b0b9-12313b03ed59\",\"LIM_name\":\"LIM14\",\"recipients_to\":\"Daniela.Dutu@portsmouthcc.gov.uk\"}"
+    }
+]
